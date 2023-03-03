@@ -8,4 +8,5 @@ The dataset used in this analysis is the Speed Dating Experiment available on Ka
 
 Files
 speed-dating-data.csv: the dataset used in the analysis.
-speed-dating-hugo.ipynb: jupyter notebook containing segment for analysis 
+speed-dating-hugo.ipynb: jupyter notebook containing analysis segment 
+json_files_hugo: json files for all dataset outputs
