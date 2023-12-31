@@ -7,6 +7,8 @@
 ![image](https://github.com/hugotomita1201/code_pudding_data/assets/70402339/77540141-9dcc-4a71-bb05-686dcf0aaf7e)
 
 Speed Dating EDA
+
+## Purpose
 This repository contains exploratory data analysis (EDA) on a speed dating dataset. The dataset includes information about participants' demographics, interests, and ratings of their dates. The purpose of this analysis is to gain insights into what factors influence a successful speed dating experience.
 
 Throughout the dataset, we discovered that physical attractiveness came in as the most important aspect for men and intelligence for women. 
