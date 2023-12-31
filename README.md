@@ -2,6 +2,9 @@
 
 ![image](https://github.com/hugotomita1201/code_pudding_data/assets/70402339/81cb218a-29b3-4794-8d34-47b962bafa11)
 
+![image](https://github.com/hugotomita1201/code_pudding_data/assets/70402339/c1f8a5bd-ef8c-4f40-bd16-f1122bdda06c)
+
+![image](https://github.com/hugotomita1201/code_pudding_data/assets/70402339/77540141-9dcc-4a71-bb05-686dcf0aaf7e)
 
 Speed Dating EDA
 This repository contains exploratory data analysis (EDA) on a speed dating dataset. The dataset includes information about participants' demographics, interests, and ratings of their dates. The purpose of this analysis is to gain insights into what factors influence a successful speed dating experience.
@@ -11,10 +14,6 @@ Throughout the dataset, we discovered that physical attractiveness came in as th
 ![image](https://github.com/hugotomita1201/code_pudding_data/assets/70402339/668e8d04-aa6d-4560-a44d-129eeec92190)
 
 ![image](https://github.com/hugotomita1201/code_pudding_data/assets/70402339/1ce21495-14f1-404e-9e90-169378276481)
-
-![image](https://github.com/hugotomita1201/code_pudding_data/assets/70402339/c1f8a5bd-ef8c-4f40-bd16-f1122bdda06c)
-
-![image](https://github.com/hugotomita1201/code_pudding_data/assets/70402339/77540141-9dcc-4a71-bb05-686dcf0aaf7e)
 
 
 Dataset
