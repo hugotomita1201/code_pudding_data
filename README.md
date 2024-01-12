@@ -27,4 +27,6 @@ json_files_hugo: json files for all dataset outputs
 
 ## Conclusion
 
-In conclusion, we were able to discover that physical attractiveness came in as the most important aspect for men and intelligence for women.
+In summarizing the findings of our research repository, it's evident that gender-based preferences in dating exhibit notable contrasts. Men reported physical attractiveness as their primary criterion, while women emphasized intelligence. However, an intriguing discrepancy emerged upon analyzing actual match data: individuals with high physical attractiveness received the most votes from both genders. This disparity suggests that, despite stated preferences, physical appeal holds significant sway in actual choices made by both men and women in the dating arena.
+
+Therefore, our research leads to a practical piece of dating advice: prioritizing physical fitness and appearance can be a beneficial strategy for increasing one's appeal in the dating market. This conclusion underscores the complex interplay between stated preferences and actual behavior in the realm of romantic selection.
