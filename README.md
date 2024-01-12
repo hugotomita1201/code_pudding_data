@@ -27,4 +27,4 @@ json_files_hugo: json files for all dataset outputs
 
 ## Conclusion
 
-In conclusion, we were able to discover that physical attractiveness came in as the most important aspect for men and intelligence for women. 
+In conclusion, we were able to discover that physical attractiveness came in as the most important aspect for men and intelligence for women.
